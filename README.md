@@ -1,5 +1,5 @@
 # git-essentials
 
-# deployment notes
+## deployment notes
 
-# staging notes
+## staging notes
