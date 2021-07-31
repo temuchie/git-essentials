@@ -1,4 +1,4 @@
-"# git-essentials" 
+# git-essentials
 
 # deployment notes
 
