@@ -1,4 +1,6 @@
-# git-essentials
+# git-essentials / Git for Everybody
+
+A course to teach you how to use git
 
 ## deployment notes
 
